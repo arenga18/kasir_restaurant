@@ -1,0 +1,76 @@
+.menu-list {
+	background-color: rgb(47, 64, 80);
+}
+
+.navbar-nav .nav-item .nav-link.active {
+	background-color: rgb(34, 46, 58) !important;
+	border-left: 5px solid green;
+}
+
+.navbar-nav .nav-item #data-order .nav-link {
+	background-color: rgb(34, 46, 58) !important;
+	border: none;
+}
+
+.nav-left-sidebar .submenu {
+	background-color: rgb(34, 46, 58) !important;
+}
+
+.nav-left-sidebar .navbar {
+	padding: 0;
+}
+
+.slimScrollBar {
+	background-color: rgb(34, 46, 58) !important;
+}
+
+.nav-left-sidebar .account > .nav-link:focus {
+	background-color: rgb(34, 46, 58) !important;
+	border-left: 5px solid rgb(26, 179, 148);
+}
+
+.dashboard-main-wrapper {
+	padding-top: 20px;
+}
+
+.nav-left-sidebar {
+	top: 0 !important;
+}
+
+.heading {
+	width: 100%;
+	text-align: center;
+	color: whitesmoke;
+}
+
+.border-color {
+	border-top: 5px solid rgb(26, 179, 148) !important;
+}
+
+.sec-color {
+	color: rgb(26, 179, 148) !important;
+}
+
+.sec-bg-color {
+	background-color: rgb(26, 179, 148) !important;
+	color: white;
+}
+
+.total {
+	border: 1px solid #e6e6f2;
+	justify-content: space-between;
+	padding: 16px 20px;
+	border-radius: 0.25rem;
+}
+
+.total h3 {
+	margin: 0;
+}
+
+.card-body {
+	padding: 1rem !important;
+}
+
+.card img {
+	height: 150px !important;
+}
